@@ -41,3 +41,10 @@ useHead({
   title: 'WireGuard',
 });
 </script>
+
+<style lang="css">
+<!-- TODO: move into component -->
+.line-chart .apexcharts-svg {
+  transform: translateY(3px);
+}
+</style>
